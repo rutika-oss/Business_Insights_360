@@ -20,7 +20,8 @@ Business Insights 360 is an end-to-end business intelligence solution designed t
 * Customer segmentation and product insights
 * Region-wise and market-wise performance analysis
 * Executive summary dashboard for strategic decisions
-  <img width="1313" height="727" alt="snapshot oof dashboard" src="https://github.com/user-attachments/assets/d7955117-f9e9-4a2e-bad8-6178e5cfae58" />
+  <img width="1333" height="782" alt="image" src="https://github.com/user-attachments/assets/6e5dc122-9348-4e79-9de9-9f8b6fc07dcb" />
+
 
 
 ## 🛠️ Tools & Technologies Used
